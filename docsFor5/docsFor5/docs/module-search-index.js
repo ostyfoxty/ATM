@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.example.javalaba5"}];updateSearchResults();
